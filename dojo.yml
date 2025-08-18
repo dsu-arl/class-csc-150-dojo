@@ -3,9 +3,6 @@ name: CSC-150
 type: class
 
 modules:
-  - import:
-      dojo: getting-started
-      module: starthere
 
   - import:
       dojo: linux
