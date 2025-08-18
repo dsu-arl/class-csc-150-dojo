@@ -5,7 +5,7 @@ type: class
 modules:
 
   - import:
-      dojo: linux
+      dojo: linux~b97f7b55
       module: linux-basics
 
   - import:
