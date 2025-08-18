@@ -3,19 +3,22 @@ name: CSC-150
 type: class
 
 modules:
+  - import:
+      dojo: getting-started~12d3211b 
+      module: starthere
 
   - import:
       dojo: linux~b97f7b55
       module: linux-basics
 
   - import:
-      dojo: c-programming
+      dojo: c-programming~6175437a
       module: hello-world
 
   - import:
-      dojo: c-programming
+      dojo: c-programming~6175437a
       module: variables
 
   - import:
-      dojo: c-programming
+      dojo: c-programming~6175437a
       module: conditionals
