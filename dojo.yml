@@ -4,21 +4,21 @@ type: class
 
 modules:
   - import:
-      dojo: getting-started~12d3211b 
+      dojo: getting-started~6c956473 
       module: starthere
 
   - import:
-      dojo: linux~b97f7b55
+      dojo: linux~cf6cc015 
       module: linux-basics
 
   - import:
-      dojo: c-programming~6175437a
+      dojo: c-programming~573f7d43
       module: hello-world
 
   - import:
-      dojo: c-programming~6175437a
+      dojo: c-programming~573f7d43
       module: variables
 
   - import:
-      dojo: c-programming~6175437a
+      dojo: c-programming~573f7d43
       module: conditionals
