@@ -4,8 +4,8 @@ type: class
 
 modules:
   - import:
-      dojo: getting-started~6c956473 
-      module: starthere
+      dojo: welcome 
+      module: welcome
 
   - import:
       dojo: linux~cf6cc015 
